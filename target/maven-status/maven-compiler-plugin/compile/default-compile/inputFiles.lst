@@ -1,0 +1,9 @@
+/workspaces/adp-enrollment/src/main/java/havezzy/filetransfer/app/dnsresolver/DnsResolver.java
+/workspaces/adp-enrollment/src/main/java/havezzy/filetransfer/app/email/Email.java
+/workspaces/adp-enrollment/src/main/java/havezzy/filetransfer/app/linux/Linux.java
+/workspaces/adp-enrollment/src/main/java/havezzy/filetransfer/app/dnsresolver/DnsResolverController.java
+/workspaces/adp-enrollment/src/main/java/havezzy/filetransfer/app/App.java
+/workspaces/adp-enrollment/src/main/java/havezzy/filetransfer/app/email/EmailController.java
+/workspaces/adp-enrollment/src/main/java/havezzy/filetransfer/app/dnsresolver/DnsResolverService.java
+/workspaces/adp-enrollment/src/main/java/havezzy/filetransfer/app/email/EmailRepository.java
+/workspaces/adp-enrollment/src/main/java/havezzy/filetransfer/app/email/EmailService.java

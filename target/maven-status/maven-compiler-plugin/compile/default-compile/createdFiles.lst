@@ -1,0 +1,9 @@
+havezzy/filetransfer/app/dnsresolver/DnsResolver.class
+havezzy/filetransfer/app/dnsresolver/DnsResolverService.class
+havezzy/filetransfer/app/dnsresolver/DnsResolverController.class
+havezzy/filetransfer/app/email/EmailController.class
+havezzy/filetransfer/app/App.class
+havezzy/filetransfer/app/email/EmailRepository.class
+havezzy/filetransfer/app/linux/Linux.class
+havezzy/filetransfer/app/email/EmailService.class
+havezzy/filetransfer/app/email/Email.class
